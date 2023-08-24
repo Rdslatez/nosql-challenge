@@ -1,2 +1,3 @@
 # nosql-challenge
-#Finished assignment
+
+Using nosql to setup, update and analyze/explore a database
